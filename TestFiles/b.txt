@@ -1,0 +1,10 @@
+ls & pwd
+path /bin /notapath
+pwpaths
+ls & pwd
+pws
+cd
+ls
+cd /usr
+ls
+exit
